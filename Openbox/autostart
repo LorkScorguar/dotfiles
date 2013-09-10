@@ -1,0 +1,5 @@
+conky &
+guake &
+nitrogen --restore &
+xcompmgr -cCfF &
+tint2 &
